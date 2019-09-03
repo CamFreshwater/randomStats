@@ -1,0 +1,4 @@
+
+CXX14FLAGS=-O3 -march=native
+CXX14=$(BINPREF)g++ -m$(WIN) -std=c++1y -march=native -mtune=native
+CXX11FLAGS=-O3 -march=native

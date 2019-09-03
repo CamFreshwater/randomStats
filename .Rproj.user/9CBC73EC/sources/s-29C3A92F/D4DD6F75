@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567527939197.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D4DD6F75",
+    "lastKnownWriteTime" : 1567549150,
+    "last_content_update" : 1567549150767,
+    "path" : "C:/github/randomStats/R/bayesianPractice/modelingIntegers.R",
+    "project_path" : "R/bayesianPractice/modelingIntegers.R",
+    "properties" : {
+        "cursorPosition" : "61,12",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
